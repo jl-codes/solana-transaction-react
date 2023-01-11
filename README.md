@@ -1,3 +1,5 @@
+# This project is intended as a demo showcasing a single Solana transation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
